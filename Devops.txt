@@ -1,0 +1,16 @@
+Hi All,
+
+I am trying to learn Devops 
+
+Want to become a Devops Engineer.
+
+Prerequisites to learm Devops
+
+1) Networking Concept 
+2) Git and Git Hub
+3) Ansibel 
+4)CI/CD
+5)Terraform
+6)kubernetes
+7) Docker
+8) 
