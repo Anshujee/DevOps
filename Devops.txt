@@ -7,3 +7,4 @@ Want to become a Devops Engineer.
 Prerequisites to learm Devops
 
 1) Networking Concept 
+2) Git and Git Hub
