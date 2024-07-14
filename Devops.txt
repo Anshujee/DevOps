@@ -9,8 +9,11 @@ Prerequisites to learm Devops
 1) Networking Concept 
 2) Git and Git Hub
 3) Ansibel 
-4)CI/CD
-5)Terraform
-6)kubernetes
+4) CI/CD
+5) Terraform
+6) Kubernetes
 7) Docker
-8) 
+8) Python
+9) Argo CD
+10) Git lab  
+11) git hub action
