@@ -17,3 +17,4 @@ Prerequisites to learm Devops
 9) Argo CD
 10) Git lab  
 11) git hub action
+12) Cloud (AWS, AZURE,GCP)
