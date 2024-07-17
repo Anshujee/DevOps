@@ -12,3 +12,5 @@ Prerequisites to learm Devops
 4)CI/CD
 5)Terraform
 6)kubernetes
+
+Currently I am learing Terraform. 
