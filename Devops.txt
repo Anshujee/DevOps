@@ -18,3 +18,4 @@ Prerequisites to learm Devops
 10) Git lab  
 11) git hub action
 12) Cloud (AWS, AZURE,GCP)
+13) Do some projects for handon Hands on pactice is very important. 
